@@ -10,4 +10,5 @@ Console.Write(" 7"); Thread.Sleep(1000);
 Console.Write(" 8"); Thread.Sleep(1000);
 Console.Write(" 9"); Thread.Sleep(1000);
 Console.WriteLine(" 10"); Thread.Sleep(1000);
+Console.WriteLine(" ");
 Console.WriteLine("* FIM *");
